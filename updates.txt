@@ -1,0 +1,77 @@
+HEY INSTALL sublime text! & python & get ADHD distro
+
+
+Todo:
+- github instance for this tool
+- determine if we want to stick with python core only (a la recon-ng)
+- check if mirage is a taken name for an infosec tool
+- chat with lawyer to see what license we should use
+- send these notes to Adam
+
+
+need python bind 
+- arbitrary port/ports (admin for low order)
+
+Modules for connect actions
+1) /dev/random
+2) fake mem dump
+	a) honey users
+	b) trash - send random things
+3) fake shell 
+4) firewall action
+	a) host
+	b) enterprise
+5) fake port knock sequencer
+6) honey doc plugin
+7) honey badger plugin
+8) anti-recon
+	a) false banner
+	b) web labrynth
+	c) la brea tar pit
+9) attacker recon module
+	a) browser
+	b) TTL and other packet info
+	c) firewalk ttl discovery
+10) janky server
+	a) "random" RST packet
+11) QoS throttle -- welcome to dialup!
+
+
+
+alerting modules
+- email
+- plugins for main IDS/IPS
+
+
+Config wizard
+
+
+
+
+way way future feature
+- host security check -- leverage appropriate test tool for system hardening MBSA/bastille
+
+
+
+
+
+
+config tool to drive the options offer saves from past sessions
+
+SET/Naisho style interface
+
+
+
+constraints:
+- agentless: should run on prod with MINIMAL impact.
+- python
+- must run on windows, linux, mac
+- open source license for this tool
+- small "metasploit style" code libs/modules
+
+
+
+name
+The Big Elbow
+Hacker's Heartburn
+***Mirage:
