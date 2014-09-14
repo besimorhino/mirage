@@ -13,12 +13,9 @@ class Devrandom(threading.Thread):
 
     def run(self):
         print "Connection from : "+self.ip+":"+str(self.port)
-	#with open("/dev/random") as f:
-        #    for i in xrange(10):
-        #        print f.readline()
-        #        self.csocket.send(f.readline())
-        while True:
-            self.csocket.send(os.urandom(100000))
-            time.sleep(4)
-            
-
+        try:
+            while True:
+                self.csocket.send(os.urandom(100000))
+                time.sleep(4)
+        except:
+            print "[-] Thread %s on port %s has disconnected! \n" % (self.ip, self.port)
