@@ -9,6 +9,7 @@ from core.webserver import *
 from core.ms08067 import *
 from core.portknocker import *
 from core.devrandom import *
+from core.fakeftp import *
 
 from optparse import OptionParser
 
@@ -24,7 +25,7 @@ print logo + "\n"
 
 options = raw_input("""\t\t[ Welcome to Mirage - the NEXT Generation Honeypost for Enterprise systems ]
 \t\t\t\t[ created by @bettersaftynet & @3nc0d3r ]\n\n
-Please Choose an option to load\n\n[1] Mirage Backdoor\n[2] Fake Web Server with Injection Vulns\n[3] Firewall Action(* Auto shun)\n[4] Fake port knock sequencer\n[5] Dev Random\n[6] Anti-ReCon\n\nmirage> """)
+Please Choose an option to load\n\n[1] Mirage Backdoor\n[2] Fake Web Server with Injection Vulns\n[3] Firewall Action(* Auto shun)\n[4] Fake port knock sequencer\n[5] Dev Random\n[6] Fake FTP Server\n[7] Anti-ReCon\n\nmirage> """)
 
 host = "0.0.0.0"
 port = 8888
@@ -32,12 +33,13 @@ port = 8888
 # If statemnet for choosing Options
 if options == str(1):
     # Backdoor --------------------------------------------------------------------------------------------------------------------
+    port = 12345
     tcpsock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     tcpsock.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
     tcpsock.bind((host,port))
     while True:
         tcpsock.listen(4)
-        print "\nListening for incoming connections..."
+        print "\nListening for incoming connections on port %s ..." % (port)
         (bdclientsock, (ip, port)) = tcpsock.accept()
         bdthread = Backdoor(ip, port, bdclientsock)
         bdthread.start()
@@ -50,7 +52,7 @@ elif options == str(2):
     websock.bind((host,port))
     while True:
         websock.listen(4)
-        print "\nListening for incoming connections..."
+        print "\nListening for incoming connections on port %s ..." % (port)
         (webclientsock, (ip, port)) = websock.accept()
         webthread = WebServer(ip, port, webclientsock)
         webthread.start()
@@ -62,7 +64,7 @@ elif options == str(3):
     mssock.bind((host,port))
     while True:
         mssock.listen(4)
-        print "\nListening for incoming connections..."
+        print "\nListening for incoming connections on port %s ..." % (port)
         (msclientsock, (ip, port)) = mssock.accept()
         msthread = ms08067(ip, port, msclientsock)
         msthread.start()
@@ -74,7 +76,7 @@ elif options == str(4):
     portknock.bind((host,port))
     while True:
         portknock.listen(4)
-        print "\nListening for incoming connections..."
+        print "\nListening for incoming connections on port %s ..." % (port)
         (pkclientsock, (ip, port)) = portknock.accept()
         pkthread = Portknocker(ip, port, pkclientsock)
         pkthread.start()
@@ -86,10 +88,21 @@ elif options == str(5):
     devr.bind((host,port))
     while True:
         devr.listen(4)
-        print "\nListening for incoming connections..."
+        print "\nListening for incoming connections on port %s ..." % (port)
         (drclientsock, (ip, port)) = devr.accept()
         drthread = Devrandom(ip, port, drclientsock)
         drthread.start()
+elif options == str(6):
+    # Fake FTP Server --------------------------------------------------------------------------------------------------------------
+    port = 21
+    fftp = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    fftp.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
+    fftp.bind((host,port))
+    while True:
+        fftp.listen(4)
+        print "\nListening for incoming connections on port %s ..." % (port)
+        (fftpclientsock, (ip, port)) = fftp.accept()
+        fftpthread = FakeFTP(ip, port, fftpclientsock)
+        fftpthread.start()
 else:
     pass
-
