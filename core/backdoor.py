@@ -32,10 +32,10 @@ class Backdoor(threading.Thread):
                 elif datas == 'cd':
                     self.csocket.send("Access is denied.\n\nc:\Users\smithr2>")
                 elif datas == 'exit':
-                    break             
+                    self.csocket.close()             
                 else:
                     data1 = data.split(' ', 1)[0]
-                    self.csocket.send ("'" + data1 + "' is not recognized as an internal or external command, operable program or batch file.\n\nC:\Users\smithr2> ")
+                    self.csocket.send ("'" + data1 + dates + data + "' is not recognized as an internal or external command, operable program or batch file.\n\nC:\Users\smithr2> ")
             else:
-                self.csocket.send ("'" + data1 + "' is not recognized as an internal or external command, operable program or batch file.\n\nC:\Users\smithr2> ")
+                self.csocket.send (("'" + data.split(' ', 1)[0]).rstrip('\n') + "' is not recognized as an internal or external command, operable program or batch file.\n\nC:\Users\smithr2> ")
         print "Client at "+self.ip+" disconnected..."
