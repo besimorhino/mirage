@@ -1,0 +1,9 @@
+c:\>net user
+
+User accounts for \\SPLOIT-PC
+
+-------------------------------------------------------------------------------
+Administrator            Guest                    sploit
+test
+The command completed successfully.
+

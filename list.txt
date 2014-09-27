@@ -1,0 +1,29 @@
+C:\Users\sploit\Downloads\PyInstaller-2.1\PyInstaller-2.1\utils\set_version.py
+C:\Users\sploit\Favorites\Links
+C:\Users\sploit\Favorites\Links for United States
+C:\Users\sploit\Favorites\Microsoft Websites
+C:\Users\sploit\Favorites\MSN Websites
+C:\Users\sploit\Favorites\Windows Live
+C:\Users\sploit\Favorites\Links\Suggested Sites.url
+C:\Users\sploit\Favorites\Links\Web Slice Gallery.url
+C:\Users\sploit\Favorites\Links for United States\GobiernoUSA.gov.url
+C:\Users\sploit\Favorites\Links for United States\USA.gov.url
+C:\Users\sploit\Favorites\Microsoft Websites\IE Add-on site.url
+C:\Users\sploit\Favorites\Microsoft Websites\IE site on Microsoft.com.url
+C:\Users\sploit\Favorites\Microsoft Websites\Microsoft At Home.url
+C:\Users\sploit\Favorites\Microsoft Websites\Microsoft At Work.url
+C:\Users\sploit\Favorites\Microsoft Websites\Microsoft Store.url
+C:\Users\sploit\Favorites\MSN Websites\MSN Autos.url
+C:\Users\sploit\Favorites\MSN Websites\MSN Entertainment.url
+C:\Users\sploit\Favorites\MSN Websites\MSN Money.url
+C:\Users\sploit\Favorites\MSN Websites\MSN Sports.url
+C:\Users\sploit\Favorites\MSN Websites\MSN.url
+C:\Users\sploit\Favorites\MSN Websites\MSNBC News.url
+C:\Users\sploit\Favorites\Windows Live\Get Windows Live.url
+C:\Users\sploit\Favorites\Windows Live\Windows Live Gallery.url
+C:\Users\sploit\Favorites\Windows Live\Windows Live Mail.url
+C:\Users\sploit\Favorites\Windows Live\Windows Live Spaces.url
+C:\Users\sploit\Links\Desktop.lnk
+C:\Users\sploit\Links\Downloads.lnk
+C:\Users\sploit\Links\RecentPlaces.lnk
+

@@ -11,19 +11,21 @@ Todo:
 
 need python bind 
 - arbitrary port/ports (admin for low order)
-
+--------------------------------------------------------------------------------
 Modules for connect actions
-1) /dev/random
-2) fake mem dump
+1) /dev/random - Complete :)
+2) fake mem dump - 
 	a) honey users
 	b) trash - send random things
-3) fake shell 
+3) fake shell
 4) firewall action
 	a) host
 	b) enterprise
 5) fake port knock sequencer
+--------------------------------------------------------------------------------
 6) honey doc plugin
 7) honey badger plugin
+--------------------------------------------------------------------------------
 8) anti-recon
 	a) false banner
 	b) web labrynth
@@ -32,10 +34,12 @@ Modules for connect actions
 	a) browser
 	b) TTL and other packet info
 	c) firewalk ttl discovery
+
 10) janky server
 	a) "random" RST packet
-11) QoS throttle -- welcome to dialup!
-
+--------------------------------------------------------------------------------
+11) QoS throttle -- welcome to dialup!                                         
+--------------------------------------------------------------------------------
 
 
 alerting modules

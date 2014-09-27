@@ -33,6 +33,10 @@ class FakeFTP(threading.Thread):
                     self.csocket.send("211-Extensions supported\n211 End\n")
                 elif data.rstrip() == "TYPE I":
                     self.csocket.send("501 Extensions supported\n")
+                elif data.rstrip() == "PORT":
+                    self.csocket.send("501 Extensions supported\n")
+                elif data.rstrip() == "EPSV":
+                    self.csocket.send("229 Entering Extended Passive Mode (|||34348|)")
                 else:
                     self.csocket.send("501 Not valid")
         except:

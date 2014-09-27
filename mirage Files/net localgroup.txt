@@ -1,0 +1,23 @@
+c:\>net localgroup
+
+Aliases for \\SPLOIT-PC
+
+-------------------------------------------------------------------------------
+*Administrators
+*Backup Operators
+*Cryptographic Operators
+*Distributed COM Users
+*Event Log Readers
+*Guests
+*HomeUsers
+*IIS_IUSRS
+*Network Configuration Operators
+*Performance Log Users
+*Performance Monitor Users
+*Power Users
+*Remote Desktop Users
+*Replicator
+*TelnetClients
+*Users
+The command completed successfully.
+

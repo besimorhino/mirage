@@ -1,0 +1,12 @@
+Get Completed:
+1. ParseArgs - for running command line arguments around starting the services from the command line
+2. Set Front End for Manuael Start-up (Set or Naisho)
+3. Fix web pages
+4. Add commands for others Backdoor and windows.
+6. Dynamic session ID fix webserver
+7. Dynamic Username hostnmae
+8. Ping ip and port
+
+Fake HOney Doc with Web Beacon 
+Command inject ("Webserver.py")
+- Sql Inject

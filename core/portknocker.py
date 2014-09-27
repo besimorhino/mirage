@@ -16,9 +16,9 @@ class Portknocker(threading.Thread):
     	#data = self.csocket.recv(2048)
         #print "Client(%s:%s) sent : %s"%(self.ip, str(self.port), data)
 	self.csocket.send("""
-***********************************************
-*   Viper Blood Port Knocker Sequence v6.4.8  *
-***********************************************
+************************************************
+*   Viper Blood Port Knocker Sequencer v6.4.8  *
+************************************************
 
 Unauthorized personal are subject to unlawfull 
 imprisionment. This system is being managed and
@@ -29,4 +29,3 @@ Please Enter Sequence: """)
         data = self.csocket.recv(2048)
         print "Client(%s:%s) sent : %s"%(self.ip, str(self.port), data)
         self.csocket.send("Port Knocking sequence is wrong and has been logged: %s \n" % (self.ip))
-	self.csocket.close()

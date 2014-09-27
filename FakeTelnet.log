@@ -1,0 +1,528 @@
+2014-09-25 08:55:08,367 - core.faketelnet - INFO - DOIT
+2014-09-25 08:55:28,744 - core.faketelnet - INFO - Client(127.0.0.1:63187) USERNAME: smithr2
+
+2014-09-25 08:55:34,991 - core.faketelnet - INFO - Client(127.0.0.1:63187) PASSWORD smithr2
+
+2014-09-25 08:55:34,991 - core.faketelnet - INFO - Client(127.0.0.1:63187) [+] Authenticated....
+2014-09-25 08:55:39,161 - core.faketelnet - INFO - Client(127.0.0.1:63187) sent : ping 10.1.1.1
+
+2014-09-25 08:56:03,848 - core.faketelnet - INFO - Client(127.0.0.1:63187) sent : ÿôÿý
+2014-09-25 08:56:03,848 - core.faketelnet - INFO - Client(127.0.0.1:63187) sent : ÿû
+2014-09-25 08:56:05,766 - core.faketelnet - INFO - Client(127.0.0.1:63187) sent : 
+2014-09-25 08:56:13,612 - core.faketelnet - INFO - DOIT
+2014-09-25 08:56:39,088 - core.faketelnet - INFO - Client(127.0.0.1:63193) USERNAME: smithr2
+
+2014-09-25 08:56:45,272 - core.faketelnet - INFO - Client(127.0.0.1:63193) PASSWORD smithr2
+
+2014-09-25 08:56:45,272 - core.faketelnet - INFO - Client(127.0.0.1:63193) [+] Authenticated....
+2014-09-25 08:56:48,247 - core.faketelnet - INFO - Client(127.0.0.1:63193) sent : dir
+
+2014-09-25 08:56:52,735 - core.faketelnet - INFO - Client(127.0.0.1:63193) sent : ping 10.1.1.1
+
+2014-09-25 08:59:33,733 - core.faketelnet - INFO - Client(127.0.0.1:63193) sent : ping
+
+2014-09-25 08:59:41,444 - core.faketelnet - INFO - Client(127.0.0.1:63193) sent : ping 10.1.1.1
+
+2014-09-25 08:59:58,734 - core.faketelnet - INFO - Client(127.0.0.1:63193) sent : net
+
+2014-09-25 09:00:00,029 - core.faketelnet - INFO - Client(127.0.0.1:63193) sent : 
+
+2014-09-25 09:00:03,021 - core.faketelnet - INFO - Client(127.0.0.1:63193) sent : net user
+
+2014-09-25 09:00:04,462 - core.faketelnet - INFO - Client(127.0.0.1:63193) sent : 
+
+2014-09-25 09:00:19,962 - core.faketelnet - INFO - Client(127.0.0.1:63193) sent : ping
+
+2014-09-25 09:01:50,439 - core.faketelnet - INFO - Client(127.0.0.1:63193) sent : 
+2014-09-25 09:02:23,859 - core.faketelnet - INFO - DOIT
+2014-09-25 09:02:30,789 - core.faketelnet - INFO - Client(127.0.0.1:63200) USERNAME: smithr2
+
+2014-09-25 09:02:34,110 - core.faketelnet - INFO - Client(127.0.0.1:63200) PASSWORD smithr2
+
+2014-09-25 09:02:34,110 - core.faketelnet - INFO - Client(127.0.0.1:63200) [+] Authenticated....
+2014-09-25 09:02:39,511 - core.faketelnet - INFO - Client(127.0.0.1:63200) sent : 
+
+2014-09-25 09:02:39,631 - core.faketelnet - INFO - Client(127.0.0.1:63200) sent : 
+
+2014-09-25 09:02:40,131 - core.faketelnet - INFO - Client(127.0.0.1:63200) sent : 
+
+2014-09-25 09:02:40,216 - core.faketelnet - INFO - Client(127.0.0.1:63200) sent : 
+
+2014-09-25 09:02:40,299 - core.faketelnet - INFO - Client(127.0.0.1:63200) sent : 
+
+2014-09-25 09:02:40,382 - core.faketelnet - INFO - Client(127.0.0.1:63200) sent : 
+
+2014-09-25 09:02:40,467 - core.faketelnet - INFO - Client(127.0.0.1:63200) sent : 
+
+2014-09-25 09:02:40,551 - core.faketelnet - INFO - Client(127.0.0.1:63200) sent : 
+
+2014-09-25 09:02:40,634 - core.faketelnet - INFO - Client(127.0.0.1:63200) sent : 
+
+2014-09-25 09:02:40,719 - core.faketelnet - INFO - Client(127.0.0.1:63200) sent : 
+
+2014-09-25 09:02:40,802 - core.faketelnet - INFO - Client(127.0.0.1:63200) sent : 
+
+2014-09-25 09:02:40,887 - core.faketelnet - INFO - Client(127.0.0.1:63200) sent : 
+
+2014-09-25 09:02:40,971 - core.faketelnet - INFO - Client(127.0.0.1:63200) sent : 
+
+2014-09-25 09:02:41,055 - core.faketelnet - INFO - Client(127.0.0.1:63200) sent : 
+
+2014-09-25 09:02:42,655 - core.faketelnet - INFO - Client(127.0.0.1:63200) sent : ls
+
+2014-09-25 09:02:43,631 - core.faketelnet - INFO - Client(127.0.0.1:63200) sent : dir
+
+2014-09-25 09:02:53,431 - core.faketelnet - INFO - Client(127.0.0.1:63200) sent : type password.txt
+
+2014-09-25 09:02:56,519 - core.faketelnet - INFO - Client(127.0.0.1:63200) sent : 
+
+2014-09-25 09:03:04,551 - core.faketelnet - INFO - Client(127.0.0.1:63200) sent : type passwords.txt
+
+2014-09-25 09:03:07,343 - core.faketelnet - INFO - Client(127.0.0.1:63200) sent : ÿôÿý
+2014-09-25 09:03:07,343 - core.faketelnet - INFO - Client(127.0.0.1:63200) sent : ÿû
+2014-09-25 09:03:09,846 - core.faketelnet - INFO - Client(127.0.0.1:63200) sent : exit
+
+2014-09-25 09:03:15,110 - core.faketelnet - INFO - Client(127.0.0.1:63200) sent : ping 10.1.1.1
+
+2014-09-25 09:03:16,142 - core.faketelnet - INFO - Client(127.0.0.1:63200) sent : 
+
+2014-09-25 09:03:16,358 - core.faketelnet - INFO - Client(127.0.0.1:63200) sent : 
+
+2014-09-25 09:03:16,679 - core.faketelnet - INFO - Client(127.0.0.1:63200) sent : 
+
+2014-09-25 09:03:16,918 - core.faketelnet - INFO - Client(127.0.0.1:63200) sent : 
+
+2014-09-25 09:03:17,006 - core.faketelnet - INFO - Client(127.0.0.1:63200) sent : 
+
+2014-09-25 09:03:21,814 - core.faketelnet - INFO - Client(127.0.0.1:63200) sent : ping
+
+2014-09-25 09:03:52,461 - core.faketelnet - INFO - Client(127.0.0.1:63200) sent : 
+2014-09-25 09:04:02,945 - core.faketelnet - INFO - DOIT
+2014-09-25 09:04:15,364 - core.faketelnet - INFO - Client(127.0.0.1:63202) USERNAME: smithr2
+
+2014-09-25 09:04:20,676 - core.faketelnet - INFO - Client(127.0.0.1:63202) PASSWORD smithr2
+
+2014-09-25 09:04:20,676 - core.faketelnet - INFO - Client(127.0.0.1:63202) [+] Authenticated....
+2014-09-25 09:04:24,996 - core.faketelnet - INFO - Client(127.0.0.1:63202) sent : ls
+
+2014-09-25 09:04:26,380 - core.faketelnet - INFO - Client(127.0.0.1:63202) sent : dir
+
+2014-09-25 09:04:34,412 - core.faketelnet - INFO - Client(127.0.0.1:63202) sent : vi password
+
+2014-09-25 09:05:03,761 - core.faketelnet - INFO - Client(127.0.0.1:63202) sent : ping 10.1.1.1
+
+2014-09-25 09:05:09,524 - core.faketelnet - INFO - Client(127.0.0.1:63202) sent : ÿôÿý
+2014-09-25 09:05:09,524 - core.faketelnet - INFO - Client(127.0.0.1:63202) sent : ÿû
+2014-09-25 09:05:41,970 - core.faketelnet - INFO - Client(127.0.0.1:63202) sent : exit
+
+2014-09-25 09:05:46,474 - core.faketelnet - INFO - Client(127.0.0.1:63202) sent : 
+2014-09-25 09:05:55,404 - core.faketelnet - INFO - DOIT
+2014-09-25 09:06:04,643 - core.faketelnet - INFO - Client(127.0.0.1:63204) USERNAME: smithr2
+
+2014-09-25 09:06:09,139 - core.faketelnet - INFO - Client(127.0.0.1:63204) PASSWORD smithr2
+
+2014-09-25 09:06:09,139 - core.faketelnet - INFO - Client(127.0.0.1:63204) [+] Authenticated....
+2014-09-25 09:06:14,298 - core.faketelnet - INFO - Client(127.0.0.1:63204) sent : ping 10.1.1.1
+
+2014-09-25 09:06:20,087 - core.faketelnet - INFO - Client(127.0.0.1:63204) sent : ÿôÿý
+2014-09-25 09:06:20,087 - core.faketelnet - INFO - Client(127.0.0.1:63204) sent : ÿû
+2014-09-25 09:06:22,575 - core.faketelnet - INFO - Client(127.0.0.1:63204) sent : exit
+
+2014-09-25 09:06:28,438 - core.faketelnet - INFO - Client(127.0.0.1:63204) sent : quit
+
+2014-09-25 09:06:30,614 - core.faketelnet - INFO - Client(127.0.0.1:63204) sent : exit
+
+2014-09-25 09:06:33,407 - core.faketelnet - INFO - Client(127.0.0.1:63204) sent : 
+2014-09-25 09:07:03,641 - core.faketelnet - INFO - DOIT
+2014-09-25 09:07:23,299 - core.faketelnet - INFO - Client(127.0.0.1:63205) USERNAME: smithr2
+
+2014-09-25 09:07:31,406 - core.faketelnet - INFO - Client(127.0.0.1:63205) PASSWORD smithr2
+
+2014-09-25 09:07:34,894 - core.faketelnet - INFO - Client(127.0.0.1:63205) USERNAME: smithr2
+
+2014-09-25 09:07:37,606 - core.faketelnet - INFO - Client(127.0.0.1:63205) PASSWORD smithr2
+
+2014-09-25 09:07:37,606 - core.faketelnet - INFO - Client(127.0.0.1:63205) [+] Authenticated....
+2014-09-25 09:07:42,125 - core.faketelnet - INFO - Client(127.0.0.1:63205) sent : ping 10.1.1.1
+
+2014-09-25 09:07:58,501 - core.faketelnet - INFO - Client(127.0.0.1:63205) sent : ÿôÿý
+2014-09-25 09:07:58,502 - core.faketelnet - INFO - Client(127.0.0.1:63205) sent : ÿû
+2014-09-25 09:08:16,100 - core.faketelnet - INFO - Client(127.0.0.1:63205) sent : ÿôÿý
+2014-09-25 09:08:16,101 - core.faketelnet - INFO - Client(127.0.0.1:63205) sent : ÿû
+2014-09-25 09:08:22,660 - core.faketelnet - INFO - Client(127.0.0.1:63205) sent : 
+2014-09-25 09:08:31,465 - core.faketelnet - INFO - DOIT
+2014-09-25 09:08:40,474 - core.faketelnet - INFO - Client(127.0.0.1:63207) USERNAME: smithr2
+
+2014-09-25 09:08:42,386 - core.faketelnet - INFO - Client(127.0.0.1:63207) PASSWORD smithr2
+
+2014-09-25 09:08:42,387 - core.faketelnet - INFO - Client(127.0.0.1:63207) [+] Authenticated....
+2014-09-25 09:08:46,059 - core.faketelnet - INFO - Client(127.0.0.1:63207) sent : ping 10.1.1.1
+
+2014-09-25 09:12:17,630 - core.faketelnet - INFO - Client(127.0.0.1:63207) sent : ÿôÿý
+2014-09-25 09:12:17,630 - core.faketelnet - INFO - Client(127.0.0.1:63207) sent : ÿû
+2014-09-25 09:23:11,634 - core.faketelnet - INFO - Client(127.0.0.1:63207) sent : arp -a
+
+2014-09-25 09:23:19,281 - core.faketelnet - INFO - Client(127.0.0.1:63207) sent : 
+2014-09-25 09:36:01,364 - core.faketelnet - INFO - DOIT
+2014-09-25 09:36:13,232 - core.faketelnet - INFO - Client(127.0.0.1:63313) USERNAME: rsmithr2
+
+2014-09-25 09:36:14,609 - core.faketelnet - INFO - Client(127.0.0.1:63313) PASSWORD rsmithr2
+
+2014-09-25 09:36:20,512 - core.faketelnet - INFO - Client(127.0.0.1:63313) USERNAME: smithr2
+
+2014-09-25 09:36:22,288 - core.faketelnet - INFO - Client(127.0.0.1:63313) PASSWORD smithr2
+
+2014-09-25 09:36:22,288 - core.faketelnet - INFO - Client(127.0.0.1:63313) [+] Authenticated....
+2014-09-25 09:36:32,568 - core.faketelnet - INFO - Client(127.0.0.1:63313) sent : ping 
+
+2014-09-25 09:36:36,200 - core.faketelnet - INFO - Client(127.0.0.1:63313) sent : 
+
+2014-09-25 09:36:43,824 - core.faketelnet - INFO - Client(127.0.0.1:63313) sent : ping 10.1.1.1
+
+2014-09-25 09:36:52,583 - core.faketelnet - INFO - Client(127.0.0.1:63313) sent : 
+
+2014-09-25 09:37:01,183 - core.faketelnet - INFO - Client(127.0.0.1:63313) sent : telnet 10.1.1.1
+
+2014-09-25 09:37:07,823 - core.faketelnet - INFO - Client(127.0.0.1:63313) sent : ifocnfig
+
+2014-09-25 09:37:12,007 - core.faketelnet - INFO - Client(127.0.0.1:63313) sent : ipconfig
+
+2014-09-25 09:37:15,951 - core.faketelnet - INFO - Client(127.0.0.1:63313) sent : 
+
+2014-09-25 09:37:20,382 - core.faketelnet - INFO - Client(127.0.0.1:63313) sent : ifconfig /all
+
+2014-09-25 09:37:27,030 - core.faketelnet - INFO - Client(127.0.0.1:63313) sent : ipconfig /all
+
+2014-09-25 09:37:46,222 - core.faketelnet - INFO - Client(127.0.0.1:63313) sent : 
+
+2014-09-25 09:37:50,670 - core.faketelnet - INFO - Client(127.0.0.1:63313) sent : net use
+
+2014-09-25 09:37:54,981 - core.faketelnet - INFO - Client(127.0.0.1:63313) sent : 
+
+2014-09-25 09:37:58,333 - core.faketelnet - INFO - Client(127.0.0.1:63313) sent : net userr
+
+2014-09-25 09:38:01,613 - core.faketelnet - INFO - Client(127.0.0.1:63313) sent : net user
+
+2014-09-25 09:38:05,149 - core.faketelnet - INFO - Client(127.0.0.1:63313) sent : 
+
+2014-09-25 09:38:09,269 - core.faketelnet - INFO - Client(127.0.0.1:63313) sent : net localgroup
+
+2014-09-25 09:38:10,909 - core.faketelnet - INFO - Client(127.0.0.1:63313) sent : 
+
+2014-09-25 09:38:20,924 - core.faketelnet - INFO - Client(127.0.0.1:63313) sent : net localgroup Administrators
+
+2014-09-25 09:38:23,253 - core.faketelnet - INFO - Client(127.0.0.1:63313) sent : 
+
+2014-09-25 09:38:56,083 - core.faketelnet - INFO - Client(127.0.0.1:63313) sent : net localgroup Administrator
+
+2014-09-25 09:38:59,443 - core.faketelnet - INFO - Client(127.0.0.1:63313) sent : 
+
+2014-09-25 09:39:07,507 - core.faketelnet - INFO - Client(127.0.0.1:63313) sent : arp -a
+
+2014-09-25 09:48:27,105 - core.faketelnet - INFO - Client(127.0.0.1:63313) sent : [A
+
+2014-09-25 09:48:32,160 - core.faketelnet - INFO - Client(127.0.0.1:63313) sent : [A
+
+2014-09-25 09:48:34,464 - core.faketelnet - INFO - Client(127.0.0.1:63313) sent : ls
+
+2014-09-25 09:48:39,304 - core.faketelnet - INFO - Client(127.0.0.1:63313) sent : a
+
+2014-09-25 09:48:42,272 - core.faketelnet - INFO - Client(127.0.0.1:63313) sent : 
+
+2014-09-25 09:48:42,416 - core.faketelnet - INFO - Client(127.0.0.1:63313) sent : 
+
+2014-09-25 09:48:42,584 - core.faketelnet - INFO - Client(127.0.0.1:63313) sent : 
+
+2014-09-25 09:48:42,672 - core.faketelnet - INFO - Client(127.0.0.1:63313) sent : 
+
+2014-09-25 09:48:42,768 - core.faketelnet - INFO - Client(127.0.0.1:63313) sent : 
+
+2014-09-25 09:48:42,865 - core.faketelnet - INFO - Client(127.0.0.1:63313) sent : 
+
+2014-09-25 09:48:42,968 - core.faketelnet - INFO - Client(127.0.0.1:63313) sent : 
+
+2014-09-25 09:48:43,072 - core.faketelnet - INFO - Client(127.0.0.1:63313) sent : 
+
+2014-09-25 09:48:43,168 - core.faketelnet - INFO - Client(127.0.0.1:63313) sent : 
+
+2014-09-25 09:48:43,264 - core.faketelnet - INFO - Client(127.0.0.1:63313) sent : 
+
+2014-09-25 09:48:43,384 - core.faketelnet - INFO - Client(127.0.0.1:63313) sent : 
+
+2014-09-25 09:48:43,856 - core.faketelnet - INFO - Client(127.0.0.1:63313) sent : 'ls
+
+2014-09-25 09:48:45,480 - core.faketelnet - INFO - Client(127.0.0.1:63313) sent : dir
+
+2014-09-25 09:48:49,208 - core.faketelnet - INFO - Client(127.0.0.1:63313) sent : ls
+
+2014-09-25 09:48:55,511 - core.faketelnet - INFO - Client(127.0.0.1:63313) sent : 
+2014-09-25 09:52:40,279 - core.faketelnet - INFO - DOIT
+2014-09-25 09:52:50,904 - core.faketelnet - INFO - Client(127.0.0.1:63340) USERNAME: smithr2
+
+2014-09-25 09:52:51,848 - core.faketelnet - INFO - Client(127.0.0.1:63340) PASSWORD smithr2
+
+2014-09-25 09:52:51,849 - core.faketelnet - INFO - Client(127.0.0.1:63340) [+] Authenticated....
+2014-09-25 09:52:53,224 - core.faketelnet - INFO - Client(127.0.0.1:63340) sent : 
+
+2014-09-25 09:52:53,520 - core.faketelnet - INFO - Client(127.0.0.1:63340) sent : 
+
+2014-09-25 09:52:53,696 - core.faketelnet - INFO - Client(127.0.0.1:63340) sent : 
+
+2014-09-25 09:52:53,872 - core.faketelnet - INFO - Client(127.0.0.1:63340) sent : 
+
+2014-09-25 09:52:54,080 - core.faketelnet - INFO - Client(127.0.0.1:63340) sent : 
+
+2014-09-25 09:52:54,200 - core.faketelnet - INFO - Client(127.0.0.1:63340) sent : 
+
+2014-09-25 09:52:54,288 - core.faketelnet - INFO - Client(127.0.0.1:63340) sent : 
+
+2014-09-25 09:52:54,976 - core.faketelnet - INFO - Client(127.0.0.1:63340) sent : dir
+
+2014-09-25 09:52:58,016 - core.faketelnet - INFO - Client(127.0.0.1:63340) sent : ifconfig
+
+2014-09-25 09:53:00,776 - core.faketelnet - INFO - Client(127.0.0.1:63340) sent : ipconfig
+
+2014-09-25 09:53:01,920 - core.faketelnet - INFO - Client(127.0.0.1:63340) sent : 
+
+2014-09-25 09:53:03,728 - core.faketelnet - INFO - Client(127.0.0.1:63340) sent : ping
+
+2014-09-25 09:53:13,576 - core.faketelnet - INFO - Client(127.0.0.1:63340) sent : 
+
+2014-09-25 09:59:53,107 - core.faketelnet - INFO - Client(127.0.0.1:63340) sent : ÿôÿý
+2014-09-25 09:59:53,107 - core.faketelnet - INFO - Client(127.0.0.1:63340) sent : ÿû
+2014-09-25 09:59:54,115 - core.faketelnet - INFO - Client(127.0.0.1:63340) sent : ÿôÿý
+2014-09-25 09:59:54,115 - core.faketelnet - INFO - Client(127.0.0.1:63340) sent : ÿû
+2014-09-25 09:59:54,282 - core.faketelnet - INFO - Client(127.0.0.1:63340) sent : ÿôÿý
+2014-09-25 09:59:54,283 - core.faketelnet - INFO - Client(127.0.0.1:63340) sent : ÿû
+2014-09-25 09:59:54,443 - core.faketelnet - INFO - Client(127.0.0.1:63340) sent : ÿôÿý
+2014-09-25 09:59:54,443 - core.faketelnet - INFO - Client(127.0.0.1:63340) sent : ÿû
+2014-09-25 09:59:54,579 - core.faketelnet - INFO - Client(127.0.0.1:63340) sent : ÿôÿý
+2014-09-25 09:59:54,580 - core.faketelnet - INFO - Client(127.0.0.1:63340) sent : ÿû
+2014-09-25 09:59:54,706 - core.faketelnet - INFO - Client(127.0.0.1:63340) sent : ÿôÿý
+2014-09-25 09:59:54,707 - core.faketelnet - INFO - Client(127.0.0.1:63340) sent : ÿû
+2014-09-25 09:59:54,818 - core.faketelnet - INFO - Client(127.0.0.1:63340) sent : ÿôÿý
+2014-09-25 09:59:54,819 - core.faketelnet - INFO - Client(127.0.0.1:63340) sent : ÿû
+2014-09-25 09:59:54,987 - core.faketelnet - INFO - Client(127.0.0.1:63340) sent : ÿôÿý
+2014-09-25 09:59:54,987 - core.faketelnet - INFO - Client(127.0.0.1:63340) sent : ÿû
+2014-09-25 09:59:55,146 - core.faketelnet - INFO - Client(127.0.0.1:63340) sent : ÿôÿý
+2014-09-25 09:59:55,147 - core.faketelnet - INFO - Client(127.0.0.1:63340) sent : ÿû
+2014-09-25 09:59:55,291 - core.faketelnet - INFO - Client(127.0.0.1:63340) sent : ÿôÿý
+2014-09-25 09:59:55,291 - core.faketelnet - INFO - Client(127.0.0.1:63340) sent : ÿû
+2014-09-25 09:59:57,347 - core.faketelnet - INFO - Client(127.0.0.1:63340) sent : 
+2014-09-25 14:51:46,418 - core.faketelnet - INFO - DOIT
+2014-09-25 14:51:49,420 - core.faketelnet - INFO - Client(127.0.0.1:64206) USERNAME: 
+
+2014-09-25 14:51:55,563 - core.faketelnet - INFO - Client(127.0.0.1:64206) USERNAME: 
+
+2014-09-25 14:51:55,676 - core.faketelnet - INFO - Client(127.0.0.1:64206) USERNAME: 
+
+2014-09-25 14:51:55,915 - core.faketelnet - INFO - Client(127.0.0.1:64206) USERNAME: 
+
+2014-09-25 14:51:56,059 - core.faketelnet - INFO - Client(127.0.0.1:64206) USERNAME: 
+
+2014-09-25 14:51:56,251 - core.faketelnet - INFO - Client(127.0.0.1:64206) USERNAME: 
+
+2014-09-25 14:51:56,560 - core.faketelnet - INFO - Client(127.0.0.1:64206) USERNAME: 
+
+2014-09-25 14:52:01,227 - core.faketelnet - INFO - Client(127.0.0.1:64206) USERNAME: smithr2
+
+2014-09-25 14:52:02,811 - core.faketelnet - INFO - Client(127.0.0.1:64206) PASSWORD smithr2
+
+2014-09-25 14:52:02,811 - core.faketelnet - INFO - Client(127.0.0.1:64206) [+] Authenticated....
+2014-09-25 14:52:04,475 - core.faketelnet - INFO - Client(127.0.0.1:64206) sent : dir
+
+2014-09-25 14:52:06,018 - core.faketelnet - INFO - Client(127.0.0.1:64206) sent : ls
+
+2014-09-25 14:52:09,443 - core.faketelnet - INFO - Client(127.0.0.1:64206) sent : net user
+
+2014-09-25 14:52:10,955 - core.faketelnet - INFO - Client(127.0.0.1:64206) sent : 
+
+2014-09-25 14:52:12,179 - core.faketelnet - INFO - Client(127.0.0.1:64206) sent : exit
+
+2014-09-25 14:52:13,331 - core.faketelnet - INFO - Client(127.0.0.1:64206) sent : ÿì
+2014-09-25 14:52:13,795 - core.faketelnet - INFO - Client(127.0.0.1:64206) sent : ÿôÿý
+2014-09-25 14:52:13,796 - core.faketelnet - INFO - Client(127.0.0.1:64206) sent : ÿû
+2014-09-25 14:52:16,027 - core.faketelnet - INFO - Client(127.0.0.1:64206) sent : 
+2014-09-25 14:54:24,274 - core.faketelnet - INFO - DOIT
+2014-09-25 14:54:24,274 - core.faketelnet - INFO - DOIT
+2014-09-25 14:54:30,144 - core.faketelnet - INFO - Client(127.0.0.1:64207) USERNAME: ÿôÿý
+2014-09-25 14:54:30,144 - core.faketelnet - INFO - Client(127.0.0.1:64207) USERNAME: ÿôÿý
+2014-09-25 14:54:33,223 - core.faketelnet - INFO - Client(127.0.0.1:64207) PASSWORD ÿôÿý
+2014-09-25 14:54:33,223 - core.faketelnet - INFO - Client(127.0.0.1:64207) PASSWORD ÿôÿý
+2014-09-25 14:59:14,002 - core.faketelnet - INFO - DOIT
+2014-09-25 14:59:20,566 - core.faketelnet - INFO - Client(127.0.0.1:64208) USERNAME: smithr2
+
+2014-09-25 14:59:22,255 - core.faketelnet - INFO - Client(127.0.0.1:64208) PASSWORD smithr2
+
+2014-09-25 14:59:22,255 - core.faketelnet - INFO - Client(127.0.0.1:64208) [+] Authenticated....
+2014-09-25 14:59:24,750 - core.faketelnet - INFO - Client(127.0.0.1:64208) sent : ping
+
+2014-09-25 15:00:18,685 - core.faketelnet - INFO - Client(127.0.0.1:64208) sent : 
+
+2014-09-25 15:00:19,302 - core.faketelnet - INFO - Client(127.0.0.1:64208) sent : 
+
+2014-09-25 15:01:03,580 - core.faketelnet - INFO - Client(127.0.0.1:64208) sent : ping 10.1.1.1 -t 1
+
+2014-09-25 15:01:54,541 - core.faketelnet - INFO - DOIT
+2014-09-25 15:02:02,546 - core.faketelnet - INFO - Client(127.0.0.1:64209) USERNAME: smithr2
+
+2014-09-25 15:02:03,626 - core.faketelnet - INFO - Client(127.0.0.1:64209) PASSWORD smithr2
+
+2014-09-25 15:02:03,627 - core.faketelnet - INFO - Client(127.0.0.1:64209) [+] Authenticated....
+2014-09-25 15:02:05,506 - core.faketelnet - INFO - Client(127.0.0.1:64209) sent : dir
+
+2014-09-25 15:02:11,026 - core.faketelnet - INFO - Client(127.0.0.1:64209) sent : type passwords.txt
+
+2014-09-25 15:02:28,594 - core.faketelnet - INFO - Client(127.0.0.1:64209) sent : exit
+
+2014-09-25 15:02:31,986 - core.faketelnet - INFO - Client(127.0.0.1:64209) sent : exit
+
+2014-09-25 15:02:34,785 - core.faketelnet - INFO - Client(127.0.0.1:64209) sent : qui
+
+2014-09-25 15:02:38,801 - core.faketelnet - INFO - Client(127.0.0.1:64209) sent : 
+2014-09-25 15:03:18,347 - core.faketelnet - INFO - DOIT
+2014-09-25 15:03:24,232 - core.faketelnet - INFO - Client(127.0.0.1:64211) USERNAME: smithr2
+
+2014-09-25 15:03:26,104 - core.faketelnet - INFO - Client(127.0.0.1:64211) PASSWORD smithr2
+
+2014-09-25 15:03:26,104 - core.faketelnet - INFO - Client(127.0.0.1:64211) [+] Authenticated....
+2014-09-25 15:03:33,128 - core.faketelnet - INFO - Client(127.0.0.1:64211) sent : ping 10.1.1.1
+
+2014-09-25 15:04:28,271 - core.faketelnet - INFO - Client(127.0.0.1:64211) sent : ÿôÿý
+2014-09-25 15:04:28,271 - core.faketelnet - INFO - Client(127.0.0.1:64211) sent : ÿû
+2014-09-25 15:05:03,988 - core.faketelnet - INFO - Client(127.0.0.1:64211) sent : [A
+
+2014-09-25 15:05:05,612 - core.faketelnet - INFO - Client(127.0.0.1:64211) sent : ls
+
+2014-09-25 15:05:06,828 - core.faketelnet - INFO - Client(127.0.0.1:64211) sent : dir
+
+2014-09-25 15:05:22,268 - core.faketelnet - INFO - Client(127.0.0.1:64211) sent : ÿôÿý
+2014-09-25 15:05:22,269 - core.faketelnet - INFO - Client(127.0.0.1:64211) sent : ÿû
+2014-09-25 15:05:24,252 - core.faketelnet - INFO - Client(127.0.0.1:64211) sent : exit
+
+2014-09-25 15:05:27,835 - core.faketelnet - INFO - Client(127.0.0.1:64211) sent : exit
+
+2014-09-25 15:05:30,572 - core.faketelnet - INFO - Client(127.0.0.1:64211) sent : ÿôÿý
+2014-09-25 15:05:30,573 - core.faketelnet - INFO - Client(127.0.0.1:64211) sent : ÿû
+2014-09-25 15:05:33,028 - core.faketelnet - INFO - Client(127.0.0.1:64211) sent : 
+2014-09-25 15:12:03,532 - core.faketelnet - INFO - DOIT
+2014-09-25 15:12:38,167 - core.faketelnet - INFO - Client(127.0.0.1:64217) USERNAME: smithr2
+
+2014-09-25 15:12:41,439 - core.faketelnet - INFO - Client(127.0.0.1:64217) PASSWORD smithr2
+
+2014-09-25 15:12:41,440 - core.faketelnet - INFO - Client(127.0.0.1:64217) [+] Authenticated....
+2014-09-25 15:12:43,167 - core.faketelnet - INFO - Client(127.0.0.1:64217) sent : dir
+
+2014-09-25 15:12:46,575 - core.faketelnet - INFO - Client(127.0.0.1:64217) sent : net user
+
+2014-09-25 15:13:17,758 - core.faketelnet - INFO - Client(127.0.0.1:64217) sent : net localgroup
+
+2014-09-25 15:13:20,391 - core.faketelnet - INFO - Client(127.0.0.1:64217) sent : 
+
+2014-09-25 15:13:22,254 - core.faketelnet - INFO - Client(127.0.0.1:64217) sent : ÿôÿý
+2014-09-25 15:13:22,254 - core.faketelnet - INFO - Client(127.0.0.1:64217) sent : ÿû
+2014-09-25 15:21:40,272 - core.faketelnet - INFO - Client(127.0.0.1:64217) sent : 
+2014-09-25 15:21:53,806 - core.faketelnet - INFO - DOIT
+2014-09-25 15:22:00,712 - core.faketelnet - INFO - Client(127.0.0.1:64224) USERNAME: smithr2
+
+2014-09-25 15:22:03,431 - core.faketelnet - INFO - Client(127.0.0.1:64224) PASSWORD smithr2
+
+2014-09-25 15:22:09,343 - core.faketelnet - INFO - Client(127.0.0.1:64224) USERNAME: smithr2
+
+2014-09-25 15:22:15,726 - core.faketelnet - INFO - Client(127.0.0.1:64224) PASSWORD smithr2
+
+2014-09-25 15:22:15,726 - core.faketelnet - INFO - Client(127.0.0.1:64224) [+] Authenticated....
+2014-09-25 15:22:18,431 - core.faketelnet - INFO - Client(127.0.0.1:64224) sent : ifconfig
+
+2014-09-25 15:22:20,543 - core.faketelnet - INFO - Client(127.0.0.1:64224) sent : ipconfig
+
+2014-09-25 15:22:24,215 - core.faketelnet - INFO - Client(127.0.0.1:64224) sent : dir
+
+2014-09-25 15:23:01,814 - core.faketelnet - INFO - Client(127.0.0.1:64224) sent : exit
+
+2014-09-25 15:23:07,701 - core.faketelnet - INFO - Client(127.0.0.1:64224) sent : 
+2014-09-25 15:23:53,495 - core.faketelnet - INFO - DOIT
+2014-09-25 15:23:53,495 - core.faketelnet - INFO - DOIT
+2014-09-25 15:24:27,795 - core.faketelnet - INFO - Client(127.0.0.1:64225) USERNAME: 10.1.1.1
+
+2014-09-25 15:24:27,795 - core.faketelnet - INFO - Client(127.0.0.1:64225) USERNAME: 10.1.1.1
+
+2014-09-25 15:24:54,123 - core.faketelnet - INFO - Client(127.0.0.1:64225) PASSWORD 10.1.1.1
+
+2014-09-25 15:24:54,123 - core.faketelnet - INFO - Client(127.0.0.1:64225) PASSWORD 10.1.1.1
+
+2014-09-25 15:25:07,426 - core.faketelnet - INFO - Client(127.0.0.1:64225) USERNAME: !@#@!%!@#!TY%JUKYYEJWH$Q#FB DGMU^%U^WY$%Q#RGWFBGNRYJ%&W^$Y%#ATRGFEARSJY%^W&$%Q#TRWGFBGRJY$^#Q$@
+
+2014-09-25 15:25:07,426 - core.faketelnet - INFO - Client(127.0.0.1:64225) USERNAME: !@#@!%!@#!TY%JUKYYEJWH$Q#FB DGMU^%U^WY$%Q#RGWFBGNRYJ%&W^$Y%#ATRGFEARSJY%^W&$%Q#TRWGFBGRJY$^#Q$@
+
+2014-09-25 15:25:11,346 - core.faketelnet - INFO - Client(127.0.0.1:64225) PASSWORD !@#@!%!@#!TY%JUKYYEJWH$Q#FB DGMU^%U^WY$%Q#RGWFBGNRYJ%&W^$Y%#ATRGFEARSJY%^W&$%Q#TRWGFBGRJY$^#Q$@
+
+2014-09-25 15:25:11,346 - core.faketelnet - INFO - Client(127.0.0.1:64225) PASSWORD !@#@!%!@#!TY%JUKYYEJWH$Q#FB DGMU^%U^WY$%Q#RGWFBGNRYJ%&W^$Y%#ATRGFEARSJY%^W&$%Q#TRWGFBGRJY$^#Q$@
+
+2014-09-25 15:25:20,345 - core.faketelnet - INFO - Client(127.0.0.1:64225) USERNAME: [A
+
+2014-09-25 15:25:20,345 - core.faketelnet - INFO - Client(127.0.0.1:64225) USERNAME: [A
+
+2014-09-25 15:25:21,161 - core.faketelnet - INFO - Client(127.0.0.1:64225) PASSWORD [A
+
+2014-09-25 15:25:21,161 - core.faketelnet - INFO - Client(127.0.0.1:64225) PASSWORD [A
+
+2014-09-25 15:25:32,148 - core.faketelnet - INFO - DOIT
+2014-09-25 15:25:32,148 - core.faketelnet - INFO - DOIT
+2014-09-25 15:25:32,148 - core.faketelnet - INFO - DOIT
+2014-09-25 15:25:52,817 - core.faketelnet - INFO - Client(127.0.0.1:64226) USERNAME: ÿì
+2014-09-25 15:25:52,817 - core.faketelnet - INFO - Client(127.0.0.1:64226) USERNAME: ÿì
+2014-09-25 15:25:52,817 - core.faketelnet - INFO - Client(127.0.0.1:64226) USERNAME: ÿì
+2014-09-25 15:25:54,289 - core.faketelnet - INFO - Client(127.0.0.1:64226) PASSWORD ÿì
+2014-09-25 15:25:54,289 - core.faketelnet - INFO - Client(127.0.0.1:64226) PASSWORD ÿì
+2014-09-25 15:25:54,289 - core.faketelnet - INFO - Client(127.0.0.1:64226) PASSWORD ÿì
+2014-09-25 15:25:55,352 - core.faketelnet - INFO - Client(127.0.0.1:64226) USERNAME: ÿì
+2014-09-25 15:25:55,352 - core.faketelnet - INFO - Client(127.0.0.1:64226) USERNAME: ÿì
+2014-09-25 15:25:55,352 - core.faketelnet - INFO - Client(127.0.0.1:64226) USERNAME: ÿì
+2014-09-25 15:25:55,753 - core.faketelnet - INFO - Client(127.0.0.1:64226) PASSWORD ÿì
+2014-09-25 15:25:55,753 - core.faketelnet - INFO - Client(127.0.0.1:64226) PASSWORD ÿì
+2014-09-25 15:25:55,753 - core.faketelnet - INFO - Client(127.0.0.1:64226) PASSWORD ÿì
+2014-09-25 15:25:55,936 - core.faketelnet - INFO - Client(127.0.0.1:64226) USERNAME: ÿì
+2014-09-25 15:25:55,936 - core.faketelnet - INFO - Client(127.0.0.1:64226) USERNAME: ÿì
+2014-09-25 15:25:55,936 - core.faketelnet - INFO - Client(127.0.0.1:64226) USERNAME: ÿì
+2014-09-25 15:25:56,113 - core.faketelnet - INFO - Client(127.0.0.1:64226) PASSWORD ÿì
+2014-09-25 15:25:56,113 - core.faketelnet - INFO - Client(127.0.0.1:64226) PASSWORD ÿì
+2014-09-25 15:25:56,113 - core.faketelnet - INFO - Client(127.0.0.1:64226) PASSWORD ÿì
+2014-09-26 21:17:43,879 - core.faketelnet - INFO - Client(127.0.0.1:64483) USERNAME: smithr
+
+2014-09-26 21:17:45,623 - core.faketelnet - INFO - Client(127.0.0.1:64483) PASSWORD smithr
+
+2014-09-26 21:17:50,063 - core.faketelnet - INFO - Client(127.0.0.1:64483) USERNAME: smithr2
+
+2014-09-26 21:17:53,207 - core.faketelnet - INFO - Client(127.0.0.1:64483) PASSWORD smithr2
+
+2014-09-26 21:17:53,207 - core.faketelnet - INFO - Client(127.0.0.1:64483) [+] Authenticated....
+2014-09-26 21:17:59,534 - core.faketelnet - INFO - Client(127.0.0.1:64483) sent : net user
+
+2014-09-26 21:18:03,966 - core.faketelnet - INFO - Client(127.0.0.1:64483) sent : ping 10.1.1.1
+
+2014-09-26 21:18:13,190 - core.faketelnet - INFO - Client(127.0.0.1:64483) sent : arp -a
+
+2014-09-26 21:18:17,197 - core.faketelnet - INFO - Client(127.0.0.1:64483) sent : ls
+
+2014-09-26 21:18:20,005 - core.faketelnet - INFO - Client(127.0.0.1:64483) sent : netsh 
+
+2014-09-26 21:18:22,822 - core.faketelnet - INFO - Client(127.0.0.1:64483) sent : ÿôÿý
+2014-09-26 21:18:22,822 - core.faketelnet - INFO - Client(127.0.0.1:64483) sent : ÿû
+2014-09-26 21:18:24,701 - core.faketelnet - INFO - Client(127.0.0.1:64483) sent : exit
+
+2014-09-26 21:18:27,893 - core.faketelnet - INFO - Client(127.0.0.1:64483) sent : ls
+
+2014-09-26 21:18:32,125 - core.faketelnet - INFO - Client(127.0.0.1:64483) sent : 
+2014-09-26 21:29:18,028 - core.faketelnet - INFO - Client(127.0.0.1:64484) USERNAME: ÿôÿý
+2014-09-26 21:29:18,028 - core.faketelnet - INFO - Client(127.0.0.1:64484) USERNAME: ÿôÿý
+2014-09-26 21:29:18,504 - core.faketelnet - INFO - Client(127.0.0.1:64484) PASSWORD ÿôÿý
+2014-09-26 21:29:18,504 - core.faketelnet - INFO - Client(127.0.0.1:64484) PASSWORD ÿôÿý
+2014-09-26 21:29:18,505 - core.faketelnet - INFO - Client(127.0.0.1:64484) USERNAME: 
+2014-09-26 21:29:18,505 - core.faketelnet - INFO - Client(127.0.0.1:64484) USERNAME: 
+2014-09-26 21:39:02,787 - core.faketelnet - INFO - Client(127.0.0.1:64556) USERNAME: ÿôÿý
+2014-09-26 21:39:02,787 - core.faketelnet - INFO - Client(127.0.0.1:64556) USERNAME: ÿôÿý
+2014-09-26 21:39:02,787 - core.faketelnet - INFO - Client(127.0.0.1:64556) USERNAME: ÿôÿý
+2014-09-26 21:39:04,159 - core.faketelnet - INFO - Client(127.0.0.1:64556) PASSWORD ÿôÿý
+2014-09-26 21:39:04,159 - core.faketelnet - INFO - Client(127.0.0.1:64556) PASSWORD ÿôÿý
+2014-09-26 21:39:04,159 - core.faketelnet - INFO - Client(127.0.0.1:64556) PASSWORD ÿôÿý
